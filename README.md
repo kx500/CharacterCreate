@@ -10,7 +10,7 @@ How to apply to existing projects?
 
 Open "CharacterCreate ->Demo ->BP_GameMode" from GameMode that the widget EditVisage was called, and several parameters need to be passed in when constructing EditVisage:
 
-Gender: Role Gender
+Gender: character Gender
 
 PreviewCharacter: Demonstrate character objects (character seen in the viewport)
 
