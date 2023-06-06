@@ -1,14 +1,14 @@
 1、
 After installing Character Edit, we open the demonstration level and try running it
 
-CharacterCreate ->Demo ->DemoMap
+"CharacterCreate ->Demo ->DemoMap"
 
 If there are no accidents, it should be able to operate normally
 
 2、
 How to apply to existing projects?
 
-Open CharacterCreate ->Demo ->BP_ We can see from GameMode that the widget EditVisage was called, and several parameters need to be passed in when constructing EditVisage:
+Open "CharacterCreate ->Demo ->BP_GameMode" from GameMode that the widget EditVisage was called, and several parameters need to be passed in when constructing EditVisage:
 
 Gender: Role Gender
 
@@ -18,4 +18,4 @@ IsDevelop: Developer mode (this is mainly used to generate various thumbnails, s
 
 
 
-You can refer to CharacterCreate ->Demo ->BP_ GameMode internal methods
+You can refer to "CharacterCreate ->Demo ->BP_ GameMode" internal methods
